@@ -1,0 +1,61 @@
+.new{
+  border: 3px solid blue;
+  background-color: blue;
+  padding: 60px;
+  margin-top: 110px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px grey;
+  color: white;
+}
+input[type=text], select {
+  width:100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  width: 40%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 12px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin :2px;
+
+}
+input[type=submit]:hover {
+  background-color: green;
+}
+ #Pasttable{
+      margin-top: 150px;
+      margin-left:90px; 
+       font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+       background-color: #87CEEB;
+       border:5px solid black;
+    }
+    
+
+#Pasttable td, #Pasttable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#Pasttable tr:nth-child(even){background-color: #ADD8E6;}
+
+#Pasttable tr:hover {background-color: #ddd;}
+
+#Pasttable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color:whitesmoke;
+  color: black;
+}

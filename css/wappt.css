@@ -1,0 +1,41 @@
+.appt{
+  border: 3px solid blue;
+  background-color: blue;
+  padding: 60px;
+  margin-top: 110px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px grey;
+  color: white;
+}
+.appt h2{
+  padding-bottom: 20px;
+  text-shadow: 1px 1px 2px black, 0 0 25px #008080, 0 0 5px white;
+  text-align: center;
+}
+ #Pasttable{
+      margin-top: 150px;
+      margin-left:90px; 
+       font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+       background-color: #87CEEB;
+       border:2px solid black;
+    }
+    
+
+#Pasttable td, #Pasttable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#Pasttable tr:nth-child(even){background-color: #ADD8E6;}
+
+#Pasttable tr:hover {background-color: #ddd;}
+
+#Pasttable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color:whitesmoke;
+  color: black;
+}

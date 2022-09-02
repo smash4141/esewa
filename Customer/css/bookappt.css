@@ -1,0 +1,60 @@
+.bookappt{
+  border: 3px solid blue;
+  background-color: blue;
+  padding: 60px;
+  margin-top: 110px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px grey;
+  color: white;
+}
+.bookappt h2{
+  padding-bottom: 20px;
+  text-shadow: 1px 1px 2px black, 0 0 25px #008080, 0 0 5px white;
+  text-align: center;
+
+}
+input[type=text], select {
+  width:100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=time], select {
+  width:100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=date], select {
+  width:100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 40%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 12px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin :2px;
+
+}
+input[type=submit]:hover {
+  background-color: green;
+}

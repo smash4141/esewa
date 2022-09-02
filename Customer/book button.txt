@@ -1,0 +1,1 @@
+echo '<td><form action="../Customer/bookappt.php" method="POST"><input type="hidden" name="id" value=' . $row["id"] . ' ><input type="submit" class="btn btn-sm btn-danger" name="submit" value="    Book   "></form></td></tr>';

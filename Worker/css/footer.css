@@ -1,0 +1,23 @@
+.footer{
+  position: relative;
+  text-align-last: right;
+  margin-top: 50vh;
+  padding: 15px;
+  background: blue;
+
+}
+.footer ul{
+  list-style-type: none;
+}
+.footer ul li{
+  display: inline-block;
+  margin: 10px;
+}
+.footer ul li a{
+color: white;
+}
+.footer ul li a:hover 
+{
+  font-family: monospace;
+  background-color: blue;
+}
