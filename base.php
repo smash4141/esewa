@@ -43,7 +43,11 @@
 				  document.getElementById("sidebar").classList.toggle("active");
 				}
 		</script>
-		<style>
+		
+	
+	
+	
+<style>
 
 /* Fixed sidenav, full height */
 .sidenav {
@@ -107,7 +111,6 @@
   .sidenav a {font-size: 18px;}
 }
 </style>
-</body>body>
 
 
 
