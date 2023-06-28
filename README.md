@@ -1,8 +1,6 @@
-# esewa
+# E sewa
 This is a simple donation webpage that allows users to make monetary donations to a specific cause or organization. The webpage is built using HTML, CSS, and JavaScript.
-## Demo
-
-You can see a live demo of the donation webpage .
+ .
 
 ## Features
 
